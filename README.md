@@ -1,4 +1,4 @@
-# opensplice_minimal
+# opensplice_minimal [![Build Status](https://travis-ci.org/grassjelly/opensplice_minimal.svg?branch=master)](https://travis-ci.org/grassjelly/opensplice_minimal)
 
 ## Running the demo:
 
